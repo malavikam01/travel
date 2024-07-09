@@ -1,0 +1,147 @@
+:root {
+    --animate-duration: 1s;
+    --animate-delay: 1s;
+    --animate-repeat: 1;
+}
+<style>
+:root {
+    --animate-duration: 1s;
+    --animate-delay: 1s;
+    --animate-repeat: 1;
+}
+<style>
+:root {
+    --fides-overlay-primary-color: #8243f2;
+    --fides-overlay-background-color: #f7fafc;
+    --fides-overlay-embed-background-color: transparent;
+    --fides-overlay-font-color: #4a5568;
+    --fides-overlay-font-color-dark: #2d3748;
+    --fides-overlay-hover-color: #edf2f7;
+    --fides-overlay-gpc-applied-background-color: #38a169;
+    --fides-overlay-gpc-applied-text-color: #fff;
+    --fides-overlay-gpc-overridden-background-color: #e53e3e;
+    --fides-overlay-gpc-overridden-text-color: #fff;
+    --fides-overlay-background-dark-color: #e2e8f0;
+    --fides-overlay-width: 680px;
+    --fides-overlay-primary-button-background-color: var(--fides-overlay-primary-color);
+    --fides-overlay-primary-button-background-hover-color: #9569f4;
+    --fides-overlay-primary-button-text-color: #fff;
+    --fides-overlay-primary-button-border-color: transparent;
+    --fides-overlay-secondary-button-background-color: var(--fides-overlay-background-color);
+    --fides-overlay-secondary-button-background-hover-color: var(--fides-overlay-hover-color);
+    --fides-overlay-secondary-button-text-color: #2d3748;
+    --fides-overlay-secondary-button-border-color: var(--fides-overlay-primary-color);
+    --fides-overlay-title-font-color: var(--fides-overlay-font-color);
+    --fides-overlay-body-font-color: var(--fides-overlay-font-color);
+    --fides-overlay-link-font-color: var(--fides-overlay-font-color-dark);
+    --fides-overlay-primary-active-color: var(--fides-overlay-primary-color);
+    --fides-overlay-inactive-color: #e2e8f0;
+    --fides-overlay-inactive-font-color: #a0aec0;
+    --fides-overlay-disabled-color: #e1e7ee;
+    --fides-overlay-row-divider-color: #e2e8f0;
+    --fides-overlay-row-hover-color: var(--fides-overlay-hover-color);
+    --fides-overlay-badge-background-color: #718096;
+    --fides-overlay-badge-border-radius: 4px;
+    --fides-overlay-select-border-color: #e2e8f0;
+    --fides-overlay-language-button-border-radius: 4px;
+    --fides-overlay-font-family: Inter, sans-serif;
+    --12px: 0.75rem;
+    --14px: 0.875rem;
+    --15px: 0.9375rem;
+    --16px: 1rem;
+    --fides-overlay-font-size-body-small: var(--12px);
+    --fides-overlay-font-size-body: var(--14px);
+    --fides-overlay-font-size-title: var(--16px);
+    --fides-overlay-font-size-buttons: var(--14px);
+    --fides-overlay-padding: 24px;
+    --fides-overlay-button-border-radius: 6px;
+    --fides-overlay-button-padding: 8px 16px;
+    --fides-overlay-link-v-padding: 4px;
+    --fides-overlay-link-h-padding: 4px;
+    --fides-overlay-link-padding: var(--fides-overlay-link-v-padding) var(--fides-overlay-link-h-padding);
+    --fides-overlay-container-border-radius: 12px;
+    --fides-overlay-container-border-width: 1px;
+Show all properties (3 more)
+}
+:root {
+    --wp--preset--font-size--normal: 16px;
+    --wp--preset--font-size--huge: 42px;
+}
+:root {
+    --ast-border-color: #dddddd;
+}
+:root {
+    --ast-global-color-0: #0170B9;
+    --ast-global-color-1: #3a3a3a;
+    --ast-global-color-2: #3a3a3a;
+    --ast-global-color-3: #4B4F58;
+    --ast-global-color-4: #F5F5F5;
+    --ast-global-color-5: #FFFFFF;
+    --ast-global-color-6: #E5E5E5;
+    --ast-global-color-7: #424242;
+    --ast-global-color-8: #000000;
+}
+:root {
+    --ast-post-nav-space: 0;
+    --ast-container-default-xlg-padding: 6.67em;
+    --ast-container-default-lg-padding: 5.67em;
+    --ast-container-default-slg-padding: 4.34em;
+    --ast-container-default-md-padding: 3.34em;
+    --ast-container-default-sm-padding: 6.67em;
+    --ast-container-default-xs-padding: 2.4em;
+    --ast-container-default-xxs-padding: 1.4em;
+    --ast-code-block-background: #EEEEEE;
+    --ast-comment-inputs-background: #FAFAFA;
+    --ast-normal-container-width: 1200px;
+    --ast-narrow-container-width: 750px;
+    --ast-blog-title-font-weight: normal;
+    --ast-blog-meta-weight: inherit;
+}
+html {
+    font-size: 112.5%;
+}
+html {
+    box-sizing: border-box;
+}
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+address, blockquote, body, dd, dl, dt, fieldset, figure, h1, h2, h3, h4, h5, h6, hr, html, iframe, legend, li, ol, p, pre, textarea, ul {
+    border: 0;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+html[Attributes Style] {
+    -webkit-locale: "en-US";
+}
+user agent stylesheet
+:root {
+    view-transition-name: root;
+}
+user agent stylesheet
+html {
+    display: block;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+::selection {
+    background-color: #0274be;
+    color: #ffffff;
+}
+::selection {
+    color: #fff;
+    background: #0274be;
+}
